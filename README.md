@@ -23,9 +23,9 @@ Building modern web applications with focus on interactive UI and scalable archi
 
 ### 📌 Featured Projects
 
-- 🌐 **NGLIZIYA** – Online English learning platform built with Next.js, Supabase, and Tailwind CSS.
-- 💼 **Auriox** – AI-powered mock interview simulator for software engineers.
-- 🎨 **Golden Hands** – Modern interactive showcase web application.
+- 🌐 **NGLIZIYA** – Online English learning platform built with Next.js, Supabase, and Tailwind CSS => ngliziya.ma.
+- 💼 **Auriox** – AI-powered mock interview simulator for software engineers => auriox.vercel.app.
+- 🎨 **Golden Hands** – Modern interactive showcase web application => https://golden-hands-60b04.web.app.
 
 ---
 
